@@ -1,0 +1,32 @@
+*{
+
+}
+.logo {
+    height: 7.5%;
+    width: 7.5%;
+}
+
+.about {
+    color: blue;
+}
+
+.body {
+    color: black;
+}
+div {
+  width: 70%;
+  border: 15px solid blue;
+  padding:5px;
+  margin: 20px;
+  
+}
+.p{
+    color: blue;
+}
+body{
+ background-image: url("../res/picture.jpg");
+
+}
+h1,h2,p{
+    color:white;
+}
